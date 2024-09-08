@@ -23,6 +23,17 @@ public class Main {
     System.out.println("Сотрудником с минимальной зарплатой является: " + Employee.minSalary(employees));
     System.out.println("Сотрудником с максимальной зарплатой является: " + Employee.maxSalary(employees));
     System.out.println("Средняя зарплата составляет: " + Employee.averageSalary(employees));
+    System.out.println("Список сотрудников:");
+    System.out.println("Авилов Иван Андреевич.");
+    System.out.println("Баранова Ольга Петровна.");
+    System.out.println("Баринов Олег Иванович.");
+    System.out.println("Васильев Михаил Сергеевич.");
+    System.out.println("Виноградов Вадим Викторович.");
+    System.out.println("Гаврилова Елена Ивановна.");
+    System.out.println("Доброва Ольга Васильевна.");
+    System.out.println("Зайцев Сергей Викторович.");
+    System.out.println("Зверева Ирина Викторовна.");
+    System.out.println("Фролов Федор Семенович.");
   }
 }
 
